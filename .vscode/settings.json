@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "eslint.format.enable": true,
+  "eslint.rules.customizations": [
+  
+  ],
+  "javascript.format.semicolons": "remove",
+  "typescript.format.insertSpaceAfterSemicolonInForStatements": false,
+  "javascript.format.insertSpaceAfterSemicolonInForStatements": false,
+  "typescript.format.semicolons": "remove",
+}
